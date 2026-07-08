@@ -2,7 +2,7 @@
 
 📍 **Chicago, IL** | 🎨 **Product Designer & Design Technologist**
 
-I build design systems and apps that bring clarity and accessibility to complex problems. I'm fluent in Figma and code. I'm a Cursor evangelist (Ambassador soon? 🤔) and builder of big and tiny ideas.
+I build design systems and apps that bring clarity and accessibility to complex problems. I'm fluent in Figma and code. I'm a Cursor evangelist and builder of big and tiny ideas.
 
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS%2FSCSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
 
@@ -22,6 +22,7 @@ I build design systems and apps that bring clarity and accessibility to complex 
 - 💘 **[heybrad.lol](https://heybrad.lol)** — A dating website I built for myself to enhance my Hinge profile
 - 👶 **[Kid Quotes](https://kidquotes.netlify.app)** — An anonomized version of a web app I of my kid's quotes and stories
 - ⌨️ **[Shortcuts Directory](https://shortcuts.directory)** — Curated collections of the best links about Apple's Siri Shortcuts application
+- 🛠️ **[Design Tokens Viewer](https://design-tokens-viewer.netlify.app)** — A canvas app to view and search for design tokens in a design system. (work in progress)
 - 👨‍💼 **[Random City of Chicago Employee](https://randomchicagoemployee.netlify.app)** — A tiny app that show Random Chicago City of Chicago employee. Data from data.gov
 - 🍽️ **[Mays Chicago Restaurant List](https://mayschicagorestaurantlist.netlify.app)** — Football writer Robert Mays curates a Chicago restaurant list, I built a web app for it.
 - 🎨 **[Highbeam Design System](https://highbeamdesignsystem.netlify.app)** — My first design system build. Built to support an internal SaaS product called Highbeam
