@@ -4,7 +4,7 @@
 
 I build design systems and apps that bring clarity and accessibility to complex problems. I'm fluent in Figma and code. I'm a Cursor evangelist and builder of big and tiny ideas.
 
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS%2FSCSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS%2FSCSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
 
 ---
 
@@ -32,7 +32,7 @@ I build design systems and apps that bring clarity and accessibility to complex 
 ---
 
 ## Philosophy & Beliefs
-1. Great design systems aren't component libraries, they're the strategic foundation of UI and decision making that helps product, design, and engineering teams ship better faster.
+1. Great design systems aren't component libraries, they're the strategic combination of UI elements and product decisions that helps product, design, and engineering teams ship better faster.
 2. Building software is never easy, but friction is removable. You can build faster and with higher quality over time if you prioritize care and discipline.
 3. Having a great design system is more important than ever. Without one, AI will generate inconsistency and technical debt faster than any team can clean it up.
 4. The gap between Figma and the codebase is where quality goes to die. Designers who can code or prompt can help close that gap.
