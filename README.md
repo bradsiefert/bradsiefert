@@ -9,8 +9,8 @@ I build design systems and apps that bring clarity and accessibility to complex 
 ---
 
 ## Work Projects
-- 🏛️ **[Neumo/GovOS Design System](https://bit.ly/GovOSDesignSystem)** — Design system powering Colorado's business tax portal, e-recording, and authentication flows across 6+ products
-- 📊 **[Nielsen Global Design System](https://nielsendesignsystem.netlify.app)** — Built the global design system (45 components, 40+ enterprise apps) and designed core product flows for Nielsen's unified audience measurement platform
+- 🏛️ **[Neumo/GovOS Design System](https://bit.ly/GovOSDesignSystem)** — 32 WCAG 2.2 AA components, a full token architecture (color, typography, spacing, iconography), and responsive web guidance. Powers a complete redesign of Colorado's business tax portal (200K+ taxpayers), a document e-recording platform, and platform-level authentication flows across 6+ products and 10+ dev frameworks.
+- 📊 **[Nielsen Global Design System](https://nielsendesignsystem.netlify.app/)** — 45 components and 300+ styles serving 40+ enterprise apps and 25+ designers, generating 30K+ weekly component inserts. Included React and Web Components implementations to distribute across all tech stacks, data visualization patterns for global audience measurement dashboards, and full support for accessibility and worldwide localization including RTL.
 
 ---
 
@@ -22,7 +22,7 @@ I build design systems and apps that bring clarity and accessibility to complex 
 - 🃏 **[Pokerseeker](https://pokerseeker.netlify.app)** — A poker game I conceived of that combines Boggle and Poker. Hours of fun 
 - 👶 **[Kid Quotes](https://kidquotes.netlify.app)** — Captures funny things kids say, built with Nuxt
 - 👨‍💼 **[Random City of Chicago Employee](https://randomchicagoemployee.netlify.app)** — A tiny app that show Random Chicago City of Chicago employee. Data from data.gov
-- 🍽️ **[Mays Chicago Restaurant List](https://mayschicagorestaurantlist.netlify.app)** — Chicagoan and football writing Robert Mays curates a Chicago restaurant list, I built a web app for his list.
+- 🍽️ **[Mays Chicago Restaurant List](https://mayschicagorestaurantlist.netlify.app)** — Football writer Robert Mays curates a Chicago restaurant list, I built a web app for it.
 - ⌨️ **[Shortcuts Directory](https://shortcuts.directory)** — Curated collections of the best links about Apple's Siri Shortcuts application
 - 🎨 **[Highbeam Design System](https://highbeamdesignsystem.netlify.app)** — My first design system build. Built to support an internal SaaS product called Highbeam
 - 🧱 **[Neumorphic Starter](https://gridsome-neumorphic-starter.netlify.app)** — A neumorphic style blog/portfolio starter template
