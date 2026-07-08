@@ -10,7 +10,7 @@ I build design systems and apps that bring clarity and accessibility to complex 
 
 ## Work Projects
 - 🏛️ **[Neumo/GovOS Design System](https://bit.ly/GovOSDesignSystem)** — 32 WCAG 2.2 AA components, a full token architecture (color, typography, spacing, iconography), and responsive web guidance. Powers a complete redesign of Colorado's business tax portal (200K+ taxpayers), a document e-recording platform, and platform-level authentication flows across 6+ products and 10+ dev frameworks.
-- 📊 **[Nielsen Global Design System](https://nielsendesignsystem.netlify.app/)** — 45 components and 300+ styles serving 40+ enterprise apps and 25+ designers, generating 30K+ weekly component inserts. Included React and Web Components implementations to distribute across all tech stacks, data visualization patterns for global audience measurement dashboards, and full support for accessibility and worldwide localization including RTL.
+- 📊 **[Nielsen Global Design System](https://nielsendesignsystem.netlify.app/)** — 45 components and 300+ styles serving 40+ enterprise apps and 25+ designers. System included React and Web Components implementations to distribute across all tech stacks, data visualization patterns for global audience measurement dashboards, and full support for accessibility and worldwide localization including RTL.
 
 ---
 
