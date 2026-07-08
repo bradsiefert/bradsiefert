@@ -22,7 +22,7 @@ I build design systems and apps that bring clarity and accessibility to complex 
 - 🃏 **[Pokerseeker](https://pokerseeker.netlify.app)** — A poker game I conceived of that combines Boggle and Poker. Hours of fun 
 - 💘 **[heybrad.lol](https://heybrad.lol)** — A dating website I built for myself to enhance my Hinge profile
 - 👶 **[Kid Quotes](https://kidquotes.netlify.app)** — An anonomized version of a web app I of my kid's quotes and stories
-- 📱 **[Shortcuts Directory](https://shortcuts.directory)** — Curated collections of the best links about Apple's Siri Shortcuts application
+- 📱 **[shortcuts.directory](https://shortcuts.directory)** — Curated collections of the best links about Apple's Siri Shortcuts application
 - 🛠️ **[Design Tokens Viewer](https://design-tokens-viewer.netlify.app)** — A canvas app to view and search for design tokens in a design system. (work in progress)
 - 💼 **[Random City of Chicago Employee](https://randomchicagoemployee.netlify.app)** — A tiny app that show Random Chicago City of Chicago employee. Data from data.gov
 - 🍽️ **[Mays Chicago Restaurant List](https://mayschicagorestaurantlist.netlify.app)** — Football writer Robert Mays curates a Chicago restaurant list, I built a web app for it.
