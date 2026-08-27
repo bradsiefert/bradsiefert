@@ -21,7 +21,7 @@ I build design systems and apps that bring clarity and accessibility to complex 
 - 📖 **[10years.photos.bradsiefert.com](https://10years.photos.bradsiefert.com)** — A photo book documenting my first decade of photography
 - 💘 **[heybrad.lol](https://heybrad.lol)** — A dating website I built for myself to enhance my Hinge profile
 - 🃏 **[Pokerseeker](https://pokerseeker.netlify.app)** — A poker game I conceived of that combines Boggle and Poker
-- 👶 **[Kid Quotes](https://kidquotes.netlify.app)** — An anonomized version of a web app I of my kid's quotes and stories
+- 👶 **[Kid Quotes](https://kidquotes.netlify.app)** — An anonomized version of my kid's quotes and stories
 - 📱 **[shortcuts.directory](https://shortcuts.directory)** — Curated collections of the best links about Apple's Siri Shortcuts application
 - 🛠️ **[Design Tokens Viewer](https://design-tokens-viewer.netlify.app)** — A canvas app to view and search for design tokens in a design system (work in progress)
 - 💼 **[Random City of Chicago Employee](https://randomchicagoemployee.netlify.app)** — A tiny app that show Random Chicago City of Chicago employee. Data from data.gov
